@@ -13,3 +13,5 @@ Logistic Regression
 Performed preprocessing on tweeted text - Tokenization,Stemming,Lemmatization and removed stop words.
 Vectorization used - CountVectorizer, TF-IDF and HashVectorizer.
 
+Logistic Regression with CountVectorization proved out to be the best model based on Macro F Score.
+
